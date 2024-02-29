@@ -894,18 +894,18 @@
 <table>
   <tr>
       <td>Name</td>
-      <td>Abhishek Yadav</td>
+      <td>Sankalp Jain</td>
   </tr>
   <tr>
       <td>GitHub</td>
-      <td>https://github.com/y3abhishek</td>
+      <td>https://github.com/sankalpjai/C4GT.git</td>
   </tr>
   <tr>
       <td>LinkedIn</td>
-      <td>https://www.linkedin.com/in/y1abhishek/</td>
+      <td>https://www.linkedin.com/in/sankalp-jain-473887294/</td>
   </tr>
   <tr>
       <td>College</td>
-      <td>SRCC</td>
+      <td>Maharaja Surajmal Institute</td>
   </tr>
 </table>
